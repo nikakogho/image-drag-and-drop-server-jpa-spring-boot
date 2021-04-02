@@ -1,0 +1,1 @@
+JPA Spring Boot backend server that uses AWS and in-memory database to manage images and profiles for an image drag-and-drop website
